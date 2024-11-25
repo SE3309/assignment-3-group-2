@@ -1,0 +1,11 @@
+modelName,modelType,accuracy,lastUpdated,algorithmType
+anything,Numerical,86.02%,2024-06-07T12:28:31,ML
+care,Numerical,96.05%,2024-11-04T12:57:27,Traditional
+here,Statistical,82.60%,2024-01-14T09:41:59,ML
+pick,Numerical,95.14%,2024-02-13T02:20:08,Traditional
+large,Statistical,92.79%,2024-08-15T23:32:02,ML
+throughout,Numerical,87.41%,2024-01-21T22:37:45,ML
+teach,Numerical,86.00%,2024-08-29T06:04:59,Traditional
+sea,Numerical,93.21%,2024-09-12T22:35:33,AI
+under,Numerical,80.02%,2024-10-06T08:27:44,Traditional
+control,Statistical,82.92%,2024-06-11T22:27:20,ML
