@@ -1,0 +1,16 @@
+Utilised the Faker library as it is a python library that has many methods that are useful for fake data creation such as email generation methods,
+data and time generation methods and many more.
+The CSV library was also used to output the data as csv files, which can then be imported into our mySQL database.
+
+Some utility functions where created, a method to output the data in a csv file as well as a method
+to make sure values are unique for the primary keys
+
+The program to generate data, calls the method generation function, which uses a for loop to fill an array with an array of all the data, which is randomly generated
+utilising methods from the Faker library.
+Then the array is used to write a csv file, with the specified columns, and that is outputted
+The length of the csv file is specified in the count variables at the beginning
+It does this for all the tables, until all the csv files are created and populated.
+
+For any relations that are foreign keys, the value will just be randomely selected from one of the values of the corresponding table, by selecting a random value
+from the array for said table
+
